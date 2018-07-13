@@ -5,3 +5,9 @@
 <p><a href="https://www.youtube.com/watch?v=bxM1wr7y8tc">Grid Layout Code-Along</a>.</p>
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/layouts-grids-code-along' title='Grid Layout Code-Along'>Grid Layout Code-Along</a> on Learn.co and start learning to code for free.</p>
+ 
+
+## How it works
+<p>Bootstrap’s grid system uses a series of containers, rows, and columns to layout and align content. It’s built with flexbox and is fully responsive.</p>
+
+<p><a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-background">A Complete Guide to Flexbox</a>.</p>
